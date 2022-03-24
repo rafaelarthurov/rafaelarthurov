@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaelarthurov, dominican guy 🇩🇴
+- 👋 Hi, I’m @rafaelarthurov, a dominican guy 🇩🇴
 - 👀 I’m interested in Software Testing 🐞
 - 🌱 I’m currently learning Automation Testing ⚙️ and a piece of programming 👨‍💻
 - 📫 How to reach me @rafael.arthurov@gmail.com 
