@@ -1,5 +1,5 @@
 
-//Kata Gravity Flip: organizar dos arreglos, uno de menor a mayor y el otro de menor a mayor.
+//Kata Gravity Flip: Organize two arrays, the first one ordered from minor to major and the second one ordered from major to minor. 
 
 const flip=(d, a)=>{
   //TODO
