@@ -1,5 +1,5 @@
 
-//Funcion que devuelve la palabra mas larga de una oracion completa
+//Function that return the longest word in a sentence
 function MayorPalabra (frase) {
 
     var palabra = 0;
@@ -16,25 +16,25 @@ function MayorPalabra (frase) {
 }
 
 /*
-Algoritmo:
-1) Tomar el string completo y convertir en Mayuscula
-2) Dividir el string por espacio para separar las palabras
-3) Almacenar en un arreglo
-4) En un bucle comparar cada posicion con la sigte, guardando en una variable la de mayor tamaño
-5) devolver el contenido de la posicion de mayor tamaño en el arreglo.
+Algorithm:
+1) Take the string parameter and convert into Uppercase
+2) Split the string by space
+3) Save all the values into an array
+4) In a loop compare every position with the next one, saving in a single variable the biggest one
+5) Return the position of the bigger value on the array
 */
 
 
 MayorPalabra("The quick brown fox jumped over the lazy dog");
-// Resultado esperado: jumped
+// Expected Result: jumped
 MayorPalabra("May the force be with you");
-// Resultado esperado: force
+// Expected Result: force
 MayorPalabra("Google do a barrel roll");
-// Resultado esperado: Google
+// Expected Result: Google
 MayorPalabra("What is the average airspeed velocity of an unladen swallow");
-// Resultado esperado: airspeed
+// Expected Result: airspeed
 MayorPalabra("What if we try a super-long word such as otorhinolaryngology");
-// Resultado esperado: otorhinolaryngology
+// Expected Result: otorhinolaryngology
 
 
 
