@@ -1,18 +1,18 @@
 
 //Function that return the longest word in a sentence
-function MayorPalabra (frase) {
+function LongestWord (str) {
 
-    var palabra = 0;
-    var frase_div = frase.split (' ');
+    var Word = 0;
+    var SplitStr = str.split (' ');
 
-    for (let i = 0; i < frase_div.length; i++) {
-        if (frase_div[i].length > frase_div[palabra].length) {
-            palabra = i;
+    for (let i = 0; i < SplitStr.length; i++) {
+        if (SplitStr[i].length > SplitStr[Word].length) {
+            Word = i;
         }
     }
     
-    console.log("Palabra mas grande: " + frase_div[palabra].toUpperCase());
-    //return frase_div[palabra].toUpperCase();
+    console.log("Longest Word: " + SplitStr[Word].toUpperCase());
+    //return SplitStr[Word].toUpperCase();
 }
 
 /*
@@ -25,16 +25,16 @@ Algorithm:
 */
 
 
-MayorPalabra("The quick brown fox jumped over the lazy dog");
-// Expected Result: jumped
-MayorPalabra("May the force be with you");
-// Expected Result: force
-MayorPalabra("Google do a barrel roll");
-// Expected Result: Google
-MayorPalabra("What is the average airspeed velocity of an unladen swallow");
-// Expected Result: airspeed
-MayorPalabra("What if we try a super-long word such as otorhinolaryngology");
-// Expected Result: otorhinolaryngology
+LongestWord("The quick brown fox jumped over the lazy dog");
+// Expected Result: JUMPED
+LongestWord("May the force be with you");
+// Expected Result: FORCE
+LongestWord("Google do a barrel roll");
+// Expected Result: GOOGLE
+LongestWord("What is the average airspeed velocity of an unladen swallow");
+// Expected Result: AIRSPEED
+LongestWord("What if we try a super-long word such as otorhinolaryngology");
+// Expected Result: OTORHINOLARYNGOLOGY
 
 
 
