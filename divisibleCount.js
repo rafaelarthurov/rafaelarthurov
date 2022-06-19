@@ -1,12 +1,19 @@
 function divisibleCount(x, y, k) {
-    let Count = 0;
+    
+    //My first solutions
+    /*let Count = 0;
     for (let i = x; i < y; i++) {
         if ( i % k === 0) {
             Count++;
         }; 
     }
     return Count;
- }
+    */
+
+    //Internet Formula :(
+    return Math.floor(y/k) - Math.floor((x-1)/k); 
+    
+}
 
 //Explanation:
 /*
