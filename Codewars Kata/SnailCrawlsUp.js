@@ -1,19 +1,12 @@
 function snail(column, day, night) {
     // your code here
-    
-    var count = 1;
-    var CurrentMeters = 0;
-
+    var count = 1;var CurrentMeters = 0;
     for (;;) {
       CurrentMeters += day;
-
-      if (CurrentMeters >= column) {
-        break;
-      }
+      if (CurrentMeters >= column) {break;}
       CurrentMeters -= night;
       count +=1;
-      }
-      return count;
+      }return count;
     }
     
   console.log (snail(3,2,1), ': Should be 2');
