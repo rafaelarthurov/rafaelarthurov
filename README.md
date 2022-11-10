@@ -11,6 +11,8 @@ I’m passionate about Software Testing🐞 in general. I really enjoy Planning�
 * 📚SQL
 * ☁️API
 
+([link]([http://example.com](https://github.com/rafaelarthurov))
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafaelarthurov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafaelarturovaldezrodriguez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arturovaldez02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rafael.arthurov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg' alt='strava' height='40'>](https://www.strava.com/athletes/28766836)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelarthurov)](https://github.com/anuraghazra/github-readme-stats)
