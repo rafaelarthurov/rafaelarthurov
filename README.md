@@ -3,8 +3,11 @@ I'm Rafael Arturo Valdez from Dominican Republic, and I’m a passionate about S
 I do some code challenge, because I love the logical thinking of programming...
 
 You can check:
+
 My Instagram: @arturovaldez02
+
 My strava: https://www.strava.com/athletes/28766836
+
 And my blog underconstruction: https://medium.com/@rafael.arthurov
 
 <!---
