@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafael Arturo Valdez
 #### Software Quality Analyst
-![Software Quality Analyst](https://media-exp1.licdn.com/dms/image/C4D16AQF4qJkYqYmsRA/profile-displaybackgroundimage-shrink_350_1400/0/1517604567883?e=1673481600&v=beta&t=GZ-GLfb0rfF-3NpaDDE7a9MXbnCdUgV3T2KsqQ0xLGQ)
+![Software Quality Analyst](https://github.com/rafaelarthurov/rafaelarthurov/blob/main/banner.jpg)
 
 I’m passionate about Software Testing🐞 in general. I really enjoy Planning📝, Analysis🤔, and Metrics📉📈 about testing, also I'm a running guy 🏃🏽‍♂️, well Trail Running guy⛰️🏃🏽‍♂️ specifically...
 
