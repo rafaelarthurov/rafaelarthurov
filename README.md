@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @rafaelarthurov, a dominican guy 🇩🇴
-- 👀 I’m interested in Software Testing 🐞
-- 🌱 I’m currently learning Automation Testing ⚙️ and a piece of programming 👨‍💻
-- 📫 How to reach me @rafael.arthurov@gmail.com 
+I'm Rafael Arturo Valdez from Dominican Republic, and I’m a passionate about Software Testing in general. I really enjoy Planning, Analysis and Metrics about testing, i also I'm a running guy, well Trail Running guy especific...
+
+I do some code challenge, because I love the logical thinking of programming...
+
+You can check:
+My Instagram: @arturovaldez02
+My strava: https://www.strava.com/athletes/28766836
+And my blog underconstruction: https://medium.com/@rafael.arthurov
 
 <!---
 rafaelarthurov/rafaelarthurov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
