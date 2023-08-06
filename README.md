@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Rafael Arturo Valdez R
 
-I’m passionate about Software Testing🐞 in general. I really enjoy Planning📝, Analysis🤔, and Metrics📉📈 about testing, also I'm a running guy 🏃🏽‍♂️, well Trail Running guy⛰️🏃🏽‍♂️ specifically...
+I’m passionate about Software Testing🐞 in general. I enjoy planning 📝, Analysis🤔, and Metrics📉📈 about testing, also I'm a running guy 🏃🏽‍♂️, well Trail Running guy⛰️🏃🏽‍♂️ specifically...
 
 ## Skills and Experience
 * 🐞Software Testing
