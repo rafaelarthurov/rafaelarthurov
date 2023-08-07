@@ -11,7 +11,7 @@ I’m passionate about Software Testing🐞 in general. I enjoy planning 📝, A
 * 📚SQL
 * ☁️API
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafaelarthurov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafaelarturovaldezrodriguez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arturovaldez02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rafael.arthurov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg' alt='strava' height='40'>](https://www.strava.com/athletes/28766836)  
+[<img src='https://icons8.com/icon/3tC9EQumUAuq/github' alt='github' height='40'>](https://github.com/rafaelarthurov)  [<img src='https://icons8.com/icon/84888/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafaelarturovaldezrodriguez/)  [<img src='https://icons8.com/icon/84884/instagram' alt='instagram' height='40'>](https://www.instagram.com/arturovaldez02/)  [<img src='https://icons8.com/icon/ihouBWDTiE0w/medium' alt='medium' height='40'>](https://medium.com/@rafael.arthurov)  [<img src='https://icons8.com/icon/zpXCg1p4u4Ej/strava' alt='strava' height='40'>](https://www.strava.com/athletes/28766836)  
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelarthurov&theme=dark&show_icons=true)
 
