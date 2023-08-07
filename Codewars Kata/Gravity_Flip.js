@@ -4,6 +4,7 @@
 const flip=(d, a)=>{
   //TODO
   var temp = 0;
+  console.log(a.length)
   if (d == 'R') {
       for (let i = 0; i < a.length; i++) {
         for (let j = 0; j < a.length; j++) {
